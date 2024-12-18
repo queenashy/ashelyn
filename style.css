@@ -6,4 +6,10 @@ p{
    background-color: purple;
    font-family: san-serif;
 }
+body{
+  position: relative;
+   width: 100vw;
+  height: 100vh;
+  
+}
   
